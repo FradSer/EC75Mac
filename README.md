@@ -1,6 +1,6 @@
-# EC60
+# EC75Mac
 
-Open source universal 60% Electrostatic Capacitive PCB.
+Open source universal 75% Electrostatic Capacitive PCB (macOS first).
 
 ## Introduction
 
@@ -8,12 +8,12 @@ This project is a continuation of my development of open source EC boards.
 
 The supported layout options are the following:
 
-![Layout option](/Assets/Layout_option.png)
+![Layout option](/Assets/keyboard-layout-75.png)
 
 Mapping is purely for demonstration purposes, remapping of all keys is supported.
 ## Technical information
 
-- Layout size: 60% (GH60 outline and mounting points, see pictures below)
+- Layout size: 75%
 - Compatible switches: EC switches (Topre and NIZ)
 - Microcontroller: STM32F401
 - Connector:
